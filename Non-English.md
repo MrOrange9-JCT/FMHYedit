@@ -1529,6 +1529,7 @@
 
 * ⭐ **[DescargasDD](https://descargasdd.org/)** - Video / Audio/ Castilian / Latino / [Telegram](https://t.me/joinchat/VAWOu0TNfOXfnauA)
 * ⭐ **[ForoWarez](https://forowarez.info/)** - Video / Audio / Reading / NSFW/ Castilian / Latino
+* ⭐ **[HispaMula](https://www.hispamula.club/), [2](https://www.hispashare.club/)** - Movies / Classics / TV / Documentaries / ED2K Links
 * [identi](https://identi.io/) - Video / Audio / Reading/ Latino / Castilian
 * [ExVagos](https://www.exvagos.org/) - Video / Audio / Reading  
 * [Guns's Cave](https://lacuevadeguns.com/forum/index.php?action=forum) - Video / Audio / Reading 
@@ -1553,7 +1554,6 @@
 * [DivX Clásico](http://www.divxclasico.com/) - Classical Movies / TV / ED2K Links
 * [RebeldeMule](https://www.rebeldemule.org/) - Movies / Classics / TV / Documentaries / Reading / ED2K Links / [Telegram](https://telegram.me/rebeldemule)
 * [exploradoresp2p](http://exploradoresp2p.com/) - Movies / Classics / TV / Documentaries / ED2K Links
-* [HispaMula](https://www.hispamula.club/), [2](https://www.hispashare.club/) - Movies / Classics / TV / Documentaries / ED2K Links
 * [Descargar videos de la tele](https://eljaviero.com/descargarvideosdelatele/) - TV / [Telegram](https://t.me/joinchat/DVUy6EgTA_kZnc3KAaVItg)
 * [Ninjin Anime](https://ninjinanime.com/) - Anime
 * [Animegafirex](https://www.animegafirex.com/) - Anime
@@ -1593,6 +1593,7 @@
 * ⭐ **[HDFull](https://dominioshdfull.com/)** - Movies / TV / Anime / [Discord](https://discord.gg/BRKCXEe) / Castilian / Latino / VOSE
 * ⭐ **[Playdede](https://dominiosplaydede.com/)** - Movies / TV / Anime / [Telegram](https://t.me/s/playdedeinformacion)
 * ⭐ **[Kodi Addon "Cristal Azul"](https://rentry.co/kodi-addon-cristal-azul/)** - Movies / TV / Live Sports / [Telegram](https://t.me/addonfestaycristal/)
+* ⭐ **[El Plan](https://hackmd.io/@DEPORTES/AP-ID)** - Live Sports Acestream IDs
 * ⭐ **[LaQuay TDT Channels](https://github.com/LaQuay/TDTChannels)** - Live TV / Live Radio / IPTV / Castilian
 * [PelisPlus](https://www1.pelisplus.ws/) - Movies / TV
 * [PlusHD](https://ww3.pelisplus.to/) - Movies / TV / Anime
@@ -1638,7 +1639,6 @@
 * [Flipax](https://flipax.es/) - Live Sports
 * [Teledeportiva](https://teledeportiva4.blogspot.com/), [2](https://teledeportiva2.blogspot.com/) - Live Sports
 * [LaCasadelTikiTaka](https://www.lacasadeltikitaka.net/) - Live Soccer / MMA
-* [El Plan](https://hackmd.io/@DEPORTES/AP-ID) - Live Sports Acestream IDs
 * [elcano](https://sg.hideip.co/direct/aHR0cDovL2VsY2Fuby50b3Av), [2](https://sg.4everproxy.com/direct/aHR0cDovL2VsY2Fuby50b3Av) - Live Sports Acestream IDs / [Matrix](https://matrix.to/#/!zrcckivBbqZjmykTPi:sibnsk.net?via=matrix.org&via=sibnsk.net) / [Link Scraper](https://github.com/ddgarciad03/IDS-Export)
 * [JKAnime](https://jkanime.net/) - Anime
 * [AnimeFénix](https://www.animefenix.tv/) - Anime
